@@ -4,7 +4,7 @@ const productos = [
     {
         id: "gameboy-01",
         titulo: "Pokemon Rojo",
-        imagen: "/img/gameboy/Car3Fmon_Rojo.jpg",
+        imagen: "img/gameboy/Car3Fmon_Rojo.jpg",
         categoria: {
             nombre: "Gameboy",
             id: "gameboy"
@@ -14,7 +14,7 @@ const productos = [
     {
         id: "gameboy-02",
         titulo: "Pokemon Azul",
-        imagen: "/img/gameboy/poke_azul.jpg",
+        imagen: "img/gameboy/poke_azul.jpg",
         categoria: {
             nombre: "Gameboy",
             id: "gameboy"
@@ -24,7 +24,7 @@ const productos = [
     {
         id: "gameboy-03",
         titulo: "Pokemon Verde",
-        imagen: "/img/gameboy/Car3Fmon_Verde_3Fn29.jpg",
+        imagen: "img/gameboy/Car3Fmon_Verde_3Fn29.jpg",
         categoria: {
             nombre: "Gameboy",
             id: "gameboy"
@@ -34,7 +34,7 @@ const productos = [
     {
         id: "gameBoy-04",
         titulo: "Pokemon Amarillo",
-        imagen: "/img/gameboy/Pok3Fmon_Amarillo.jpg",
+        imagen: "img/gameboy/Pok3Fmon_Amarillo.jpg",
         categoria: {
             nombre: "Gameboy",
             id: "gameboy"
@@ -46,7 +46,7 @@ const productos = [
     {
         id: "gameboyColor-01",
         titulo: "Pokemon Oro",
-        imagen: "/img/gameboy_color/Pokemon_Edici3Fn_Oro.jpg",
+        imagen: "img/gameboy_color/Pokemon_Edici3Fn_Oro.jpg",
         categoria: {
             nombre: "Gameboy Color",
             id: "gameBoyColor"
@@ -56,7 +56,7 @@ const productos = [
     {
         id: "gameboyColor-02",
         titulo: "Pokemon Plata",
-        imagen: "/img/gameboy_color/Pokemon_Edici3Fn_Plata.jpg",
+        imagen: "img/gameboy_color/Pokemon_Edici3Fn_Plata.jpg",
         categoria: {
             nombre: "Gameboy Color",
             id: "gameBoyColor"
@@ -66,7 +66,7 @@ const productos = [
     {
         id: "gameboyColor-03",
         titulo: "Pokemon Cristal",
-        imagen: "/img/gameboy_color/Pokemon_Edici3Fn_Cristal.jpg",
+        imagen: "img/gameboy_color/Pokemon_Edici3Fn_Cristal.jpg",
         categoria: {
             nombre: "Gameboy Color",
             id: "gameBoyColor"
@@ -76,7 +76,7 @@ const productos = [
     {
         id: "gameboyColor-04",
         titulo: "Pokemon Pinball",
-        imagen: "/img/gameboy_color/Pokemonpinballbox-es.jpg",
+        imagen: "img/gameboy_color/Pokemonpinballbox-es.jpg",
         categoria: {
             nombre: "Gameboy Color",
             id: "gameBoyColor"
@@ -88,7 +88,7 @@ const productos = [
     {
         id: "gameboyAdvance-01",
         titulo: "Pokemon Rubí",
-        imagen: "/img/gameboy_advance/Car3F.jpg",
+        imagen: "img/gameboy_advance/Car3F.jpg",
         categoria: {
             nombre: "Gameboy Advance",
             id: "gameBoyAdvance"
@@ -98,7 +98,7 @@ const productos = [
     {
         id: "gameboyAdvance-02",
         titulo: "Pokemon Zafiro",
-        imagen: "/img/gameboy_advance/Car3Ftula_de_Zafiro.jpg",
+        imagen: "img/gameboy_advance/Car3Ftula_de_Zafiro.jpg",
         categoria: {
             nombre: "Gameboy Advance",
             id: "gameBoyAdvance"
@@ -108,7 +108,7 @@ const productos = [
     {
         id: "gameboyAdvance-03",
         titulo: "Pokemon Esmeralda",
-        imagen: "/img/gameboy_advance/Caratula_Esmeralda.jpg",
+        imagen: "img/gameboy_advance/Caratula_Esmeralda.jpg",
         categoria: {
             nombre: "Gameboy Advance",
             id: "gameBoyAdvance"
@@ -118,7 +118,7 @@ const productos = [
     {
         id: "gameboyAdvance-04",
         titulo: "Pokemon Rojo Fuego",
-        imagen: "/img/gameboy_advance/Car3Ftula_de_Rojo_Fuego.jpg",
+        imagen: "img/gameboy_advance/Car3Ftula_de_Rojo_Fuego.jpg",
         categoria: {
             nombre: "Gameboy Advance",
             id: "gameBoyAdvance"
@@ -128,7 +128,7 @@ const productos = [
     {
         id: "gameboyAdvance-05",
         titulo: "Pokemon Verde Hoja",
-        imagen: "/img/gameboy_advance/Car3Ftula_de_Verde_Hoja.jpg",
+        imagen: "img/gameboy_advance/Car3Ftula_de_Verde_Hoja.jpg",
         categoria: {
             nombre: "Gameboy Advance",
             id: "gameBoyAdvance"
@@ -138,7 +138,7 @@ const productos = [
     {
         id: "gameboyAdvance-06",
         titulo: "Pokemon M. Misterioso Rojo",
-        imagen: "/img/gameboy_advance/Car3Fmon_Mundo_Misterioso_equipo_de_rescate_rojo.jpg",
+        imagen: "img/gameboy_advance/Car3Fmon_Mundo_Misterioso_equipo_de_rescate_rojo.jpg",
         categoria: {
             nombre: "Gameboy Advance",
             id: "gameBoyAdvance"
@@ -150,7 +150,7 @@ const productos = [
     {
         id: "nintendoDs-01",
         titulo: "Pokemon Diamante",
-        imagen: "/img/nintendo_ds/Pok3Fmon_Diamante.jpg",
+        imagen: "img/nintendo_ds/Pok3Fmon_Diamante.jpg",
         categoria: {
             nombre: "Nintendo DS",
             id: "nintendoDs"
@@ -160,7 +160,7 @@ const productos = [
     {
         id: "nintendoDs-02",
         titulo: "Pokemon Perla",
-        imagen: "/img/nintendo_ds/Pok3Fmon_Perla.jpg",
+        imagen: "img/nintendo_ds/Pok3Fmon_Perla.jpg",
         categoria: {
             nombre: "Nintendo DS",
             id: "nintendoDs"
@@ -170,7 +170,7 @@ const productos = [
     {
         id: "nintendoDs-03",
         titulo: "Pokemon Platino",
-        imagen: "/img/nintendo_ds/Car3Fmon_Platino_29.jpg",
+        imagen: "img/nintendo_ds/Car3Fmon_Platino_29.jpg",
         categoria: {
             nombre: "Nintendo DS",
             id: "nintendoDs"
@@ -180,7 +180,7 @@ const productos = [
     {
         id: "nintendoDs-04",
         titulo: "Pokemon Corazón de Oro",
-        imagen: "/img/nintendo_ds/Pok3Fn_Oro_HeartGold_car3Ftula_ES.jpg",
+        imagen: "img/nintendo_ds/Pok3Fn_Oro_HeartGold_car3Ftula_ES.jpg",
         categoria: {
             nombre: "Nintendo DS",
             id: "nintendoDs"
@@ -190,7 +190,7 @@ const productos = [
     {
         id: "nintendoDs-05",
         titulo: "Pokemon Alma de Plata",
-        imagen: "/img/nintendo_ds/Pok3Fn_Plata_SoulSilver_car3Ftula_ES.jpg",
+        imagen: "img/nintendo_ds/Pok3Fn_Plata_SoulSilver_car3Ftula_ES.jpg",
         categoria: {
             nombre: "Nintendo DS",
             id: "nintendoDs"
@@ -200,7 +200,7 @@ const productos = [
     {
         id: "nintendoDs-06",
         titulo: "Pokemon Blanco",
-        imagen: "/img/nintendo_ds/Pkmnwhitesp.jpg",
+        imagen: "img/nintendo_ds/Pkmnwhitesp.jpg",
         categoria: {
             nombre: "Nintendo DS",
             id: "nintendoDs"
@@ -210,7 +210,7 @@ const productos = [
     {
         id: "nintendoDs-07",
         titulo: "Pokemon Negro",
-        imagen: "/img/nintendo_ds/Portblacksp.jpg",
+        imagen: "img/nintendo_ds/Portblacksp.jpg",
         categoria: {
             nombre: "Nintendo DS",
             id: "nintendoDs"
@@ -220,7 +220,7 @@ const productos = [
     {
         id: "nintendoDs-08",
         titulo: "Pokemon Blanco 2",
-        imagen: "/img/nintendo_ds/Box_Pok3Fmon_Blanco_2.jpg",
+        imagen: "img/nintendo_ds/Box_Pok3Fmon_Blanco_2.jpg",
         categoria: {
             nombre: "Nintendo DS",
             id: "nintendoDs"
@@ -230,7 +230,7 @@ const productos = [
     {
         id: "nintendoDs-09",
         titulo: "Pokemon Negro 2",
-        imagen: "/img/nintendo_ds/Box_Pok3Fmon_Negro_2.jpg",
+        imagen: "img/nintendo_ds/Box_Pok3Fmon_Negro_2.jpg",
         categoria: {
             nombre: "Nintendo DS",
             id: "nintendoDs"
@@ -240,7 +240,7 @@ const productos = [
     {
         id: "nintendoDs-10",
         titulo: "Pokemon Ranger",
-        imagen: "/img/nintendo_ds/PokemonRanger.jpg",
+        imagen: "img/nintendo_ds/PokemonRanger.jpg",
         categoria: {
             nombre: "Nintendo DS",
             id: "nintendoDs"
@@ -250,7 +250,7 @@ const productos = [
     {
         id: "nintendoDs-11",
         titulo: "Pokemon Ranger Almia",
-        imagen: "/img/nintendo_ds/Car3Fmon_Ranger_Sombras_de_Almia.jpg",
+        imagen: "img/nintendo_ds/Car3Fmon_Ranger_Sombras_de_Almia.jpg",
         categoria: {
             nombre: "Nintendo DS",
             id: "nintendoDs"
@@ -260,7 +260,7 @@ const productos = [
     {
         id: "nintendoDs-12",
         titulo: "Pokemon Ranger Trazos Luz",
-        imagen: "/img/nintendo_ds/PR3.jpg",
+        imagen: "img/nintendo_ds/PR3.jpg",
         categoria: {
             nombre: "Nintendo DS",
             id: "nintendoDs"
@@ -270,7 +270,7 @@ const productos = [
     {
         id: "nintendoDs-13",
         titulo: "Pokemon M. Misterioso Azul",
-        imagen: "/img/nintendo_ds/Car3Fmon_Mundo_Misterioso_equipo_de_rescate_azul.jpg",
+        imagen: "img/nintendo_ds/Car3Fmon_Mundo_Misterioso_equipo_de_rescate_azul.jpg",
         categoria: {
             nombre: "Nintendo DS",
             id: "nintendoDs"
@@ -280,7 +280,7 @@ const productos = [
     {
         id: "nintendoDs-14",
         titulo: "Pokemon M. Misterioso Cielo",
-        imagen: "/img/nintendo_ds/PMM3.jpg",
+        imagen: "img/nintendo_ds/PMM3.jpg",
         categoria: {
             nombre: "Nintendo DS",
             id: "nintendoDs"
@@ -290,7 +290,7 @@ const productos = [
     {
         id: "nintendoDs-15",
         titulo: "Pokemon M.Misterioso Tiempo",
-        imagen: "/img/nintendo_ds/Car3Fmon_Mundo_Misterioso_Exploradores_del_Tiempo.jpg",
+        imagen: "img/nintendo_ds/Car3Fmon_Mundo_Misterioso_Exploradores_del_Tiempo.jpg",
         categoria: {
             nombre: "Nintendo DS",
             id: "nintendoDs"
@@ -302,7 +302,7 @@ const productos = [
     {
         id: "nintendo3Ds-01",
         titulo: "Pokemon X",
-        imagen: "/img/nintendo_3ds/Pok3Ftulahhhhhh.jpg",
+        imagen: "img/nintendo_3ds/Pok3Ftulahhhhhh.jpg",
         categoria: {
             nombre: "Nintendo 3DS",
             id: "nintendo3Ds"
@@ -312,7 +312,7 @@ const productos = [
     {
         id: "nintendo3Ds-02",
         titulo: "Pokemon Y",
-        imagen: "/img/nintendo_3ds/Pok3Ftulatt.jpg",
+        imagen: "img/nintendo_3ds/Pok3Ftulatt.jpg",
         categoria: {
             nombre: "Nintendo 3DS",
             id: "nintendo3Ds"
@@ -322,7 +322,7 @@ const productos = [
     {
         id: "nintendo3Ds-03",
         titulo: "Pokemon Sol",
-        imagen: "/img/nintendo_3ds/Car3Fmon_Sol.jpg",
+        imagen: "img/nintendo_3ds/Car3Fmon_Sol.jpg",
         categoria: {
             nombre: "Nintendo 3DS",
             id: "nintendo3Ds"
@@ -332,7 +332,7 @@ const productos = [
     {
         id: "nintendo3Ds-04",
         titulo: "Pokemon Luna",
-        imagen: "/img/nintendo_3ds/Car3Fmon_Luna.jpg",
+        imagen: "img/nintendo_3ds/Car3Fmon_Luna.jpg",
         categoria: {
             nombre: "Nintendo 3DS",
             id: "nintendo3Ds"
@@ -342,7 +342,7 @@ const productos = [
     {
         id: "nintendo3Ds-05",
         titulo: "Pokemon UltraSol",
-        imagen: "/img/nintendo_3ds/Car3Fmon_Ultrasol.jpg",
+        imagen: "img/nintendo_3ds/Car3Fmon_Ultrasol.jpg",
         categoria: {
             nombre: "Nintendo 3DS",
             id: "nintendo3Ds"
@@ -352,7 +352,7 @@ const productos = [
     {
         id: "nintendo3Ds-06",
         titulo: "Pokemon UltraLuna",
-        imagen: "/img/nintendo_3ds/Car3Fmon_Ultraluna.jpg",
+        imagen: "img/nintendo_3ds/Car3Fmon_Ultraluna.jpg",
         categoria: {
             nombre: "Nintendo 3DS",
             id: "nintendo3Ds"
@@ -362,7 +362,7 @@ const productos = [
     {
         id: "nintendo3Ds-07",
         titulo: "Pokemon Rubí Omega",
-        imagen: "/img/nintendo_3ds/Car3Fmon_Rub3F_Omega.jpg",
+        imagen: "img/nintendo_3ds/Car3Fmon_Rub3F_Omega.jpg",
         categoria: {
             nombre: "Nintendo 3DS",
             id: "nintendo3Ds"
@@ -372,7 +372,7 @@ const productos = [
     {
         id: "nintendo3Ds-08",
         titulo: "Pokemon Zafiro Alfa",
-        imagen: "/img/nintendo_3ds/Car3Fmon_Zafiro_Alfa.jpg",
+        imagen: "img/nintendo_3ds/Car3Fmon_Zafiro_Alfa.jpg",
         categoria: {
             nombre: "Nintendo 3DS",
             id: "nintendo3Ds"
@@ -382,7 +382,7 @@ const productos = [
     {
         id: "nintendo3Ds-09",
         titulo: "Pokemon M. Misterioso Infinito",
-        imagen: "/img/nintendo_3ds/Car3Fmon_MM_Portales_al_Infinito.jpg",
+        imagen: "img/nintendo_3ds/Car3Fmon_MM_Portales_al_Infinito.jpg",
         categoria: {
             nombre: "Nintendo 3DS",
             id: "nintendo3Ds"
@@ -392,7 +392,7 @@ const productos = [
     {
         id: "nintendo3Ds-10",
         titulo: "Pokemon M. Megamisterioso",
-        imagen: "/img/nintendo_3ds/Car3Fmon_mundo_megamisterioso.jpg",
+        imagen: "img/nintendo_3ds/Car3Fmon_mundo_megamisterioso.jpg",
         categoria: {
             nombre: "Nintendo 3DS",
             id: "nintendo3Ds"
@@ -404,7 +404,7 @@ const productos = [
     {
         id: "nintendoSwitch-01",
         titulo: "Pokemon Let's Go Pikachu!",
-        imagen: "/img/nintendo_switch/Carátula_Pokémon_Let's_Go_Pikachu.png",
+        imagen: "img/nintendo_switch/Carátula_Pokémon_Let's_Go_Pikachu.png",
         categoria: {
             nombre: "Nintendo Switch",
             id: "nintendoSwitch"
@@ -414,7 +414,7 @@ const productos = [
     {
         id: "nintendoSwitch-02",
         titulo: "Pokemon Let's Go Eevee!",
-        imagen: "/img/nintendo_switch/Carátula_Pokémon_Let's_Go_Eevee.png",
+        imagen: "img/nintendo_switch/Carátula_Pokémon_Let's_Go_Eevee.png",
         categoria: {
             nombre: "Nintendo Switch",
             id: "nintendoSwitch"
@@ -424,7 +424,7 @@ const productos = [
     {
         id: "nintendoSwitch-03",
         titulo: "Pokemon Escudo",
-        imagen: "/img/nintendo_switch/Carátula_Pokémon_Escudo.png",
+        imagen: "img/nintendo_switch/Carátula_Pokémon_Escudo.png",
         categoria: {
             nombre: "Nintendo Switch",
             id: "nintendoSwitch"
@@ -434,7 +434,7 @@ const productos = [
     {
         id: "nintendoSwitch-04",
         titulo: "Pokemon Espada",
-        imagen: "/img/nintendo_switch/Carátula_Pokémon_Espada.png",
+        imagen: "img/nintendo_switch/Carátula_Pokémon_Espada.png",
         categoria: {
             nombre: "Nintendo Switch",
             id: "nintendoSwitch"
@@ -444,7 +444,7 @@ const productos = [
     {
         id: "nintendoSwitch-05",
         titulo: "Pokemon Diamante Brillante",
-        imagen: "/img/nintendo_switch/260px-Carátula_Pokémon_Diamante_Brillante.png",
+        imagen: "img/nintendo_switch/260px-Carátula_Pokémon_Diamante_Brillante.png",
         categoria: {
             nombre: "Nintendo Switch",
             id: "nintendoSwitch"
@@ -454,7 +454,7 @@ const productos = [
     {
         id: "nintendoSwitch-06",
         titulo: "Pokemon Perla Reluciente",
-        imagen: "/img/nintendo_switch/260px-Carátula_Pokémon_Perla_Reluciente.png",
+        imagen: "img/nintendo_switch/260px-Carátula_Pokémon_Perla_Reluciente.png",
         categoria: {
             nombre: "Nintendo Switch",
             id: "nintendoSwitch"
@@ -464,7 +464,7 @@ const productos = [
     {
         id: "nintendoSwitch-07",
         titulo: "Pokemon Leyendas: ARCEUS",
-        imagen: "/img/nintendo_switch/260px-Carátula_Leyendas_Pokémon_Arceus.png",
+        imagen: "img/nintendo_switch/260px-Carátula_Leyendas_Pokémon_Arceus.png",
         categoria: {
             nombre: "Nintendo Switch",
             id: "nintendoSwitch"
@@ -474,7 +474,7 @@ const productos = [
     {
         id: "nintendoSwitch-08",
         titulo: "Pokemon Púrpura",
-        imagen: "/img/nintendo_switch/260px-Carátula_Pokémon_Púrpura.png",
+        imagen: "img/nintendo_switch/260px-Carátula_Pokémon_Púrpura.png",
         categoria: {
             nombre: "Nintendo Switch",
             id: "nintendoSwitch"
@@ -484,7 +484,7 @@ const productos = [
     {
         id: "nintendoSwitch-09",
         titulo: "Pokemon Escarlata",
-        imagen: "/img/nintendo_switch/260px-Carátula_Pokémon_Escarlata.png",
+        imagen: "img/nintendo_switch/260px-Carátula_Pokémon_Escarlata.png",
         categoria: {
             nombre: "Nintendo Switch",
             id: "nintendoSwitch"
