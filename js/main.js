@@ -4,7 +4,7 @@ const productos = [
     {
         id: "gameboy-01",
         titulo: "Pokemon Rojo",
-        imagen: "img/gameboy/Car3Fmon_Rojo.jpg",
+        imagen: "/../img/gameboy/Car3Fmon_Rojo.jpg",
         categoria: {
             nombre: "Gameboy",
             id: "gameboy"
